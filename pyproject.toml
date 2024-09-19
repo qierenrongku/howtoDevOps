@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "DevOps"
+version = "2020.0.0"
+dependencies = [
+  
+]
+requires-python = ">=3.8"
+authors = [
+  {name = "qierenrongku", email = "qierenrongku@qq.com"},
+]
+maintainers = [
+  {name = "qierenrongku", email = "qierenrongku@qq.com"}
+]
+description = "Lovely DevOps! Wonderful Devops!"
+readme = "README.rst"
+license = {file = "LICENSE"}
+keywords = ["DevOps", "python", "test"]
+classifiers = [
+  "Programming Language :: Python"
+]
+
+
+[project.urls]
+Homepage = "https://github.com/qierenrongku"
+Documentation = "https://readthedocs.org"
+Repository = "https://github.com/qierenrongku/howtoDevOps.git"
+"Bug Tracker" = "https://github.com/qierenrongku/howtoDevOps/issues"
+
